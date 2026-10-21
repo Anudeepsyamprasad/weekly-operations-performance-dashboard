@@ -1,3 +1,6 @@
+Tools: PostgreSQL, SQL, Excel/Google Sheets, Git, GitHub
+Key capabilities: Weekly KPI reporting, team performance analysis, category-level error analysis, and data-quality validation.
+
 # weekly-operations-performance-dashboard
 SQL-driven operations analytics project featuring weekly KPIs, team and category analysis, data-quality validation, and a Google Sheets dashboard.
 
