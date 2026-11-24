@@ -1,0 +1,518 @@
+task_id,task_date,team_name,task_category,tasks_assigned,tasks_completed,errors_found,status
+T00001,2026-07-27,Alpha,Annotation,13,13,0,Completed
+T00002,2026-07-27,Alpha,Data Validation,5,5,1,Completed
+T00003,2026-07-27,Alpha,Quality Review,7,7,1,Completed
+T00004,2026-07-27,Beta,Annotation,10,10,0,Completed
+T00005,2026-07-27,Beta,Data Validation,6,6,0,Completed
+T00006,2026-07-27,Beta,Quality Review,7,7,0,Completed
+T00007,2026-07-27,Gamma,Annotation,8,8,0,Completed
+T00008,2026-07-27,Gamma,Data Validation,4,3,0,Partially Completed
+T00009,2026-07-27,Gamma,Quality Review,5,5,0,Completed
+T00010,2026-07-28,Alpha,Annotation,10,10,0,Completed
+T00011,2026-07-28,Alpha,Data Validation,6,6,1,Completed
+T00012,2026-07-28,Alpha,Quality Review,8,6,0,Partially Completed
+T00013,2026-07-28,Beta,Annotation,9,8,1,Partially Completed
+T00014,2026-07-28,Beta,Data Validation,6,6,0,Completed
+T00015,2026-07-28,Beta,Quality Review,7,7,0,Completed
+T00016,2026-07-28,Gamma,Annotation,7,7,0,Completed
+T00017,2026-07-28,Gamma,Data Validation,4,3,0,Partially Completed
+T00018,2026-07-28,Gamma,Quality Review,4,4,0,Completed
+T00019,2026-07-29,Alpha,Annotation,12,12,2,Completed
+T00020,2026-07-29,Alpha,Data Validation,6,4,0,Partially Completed
+T00021,2026-07-29,Alpha,Quality Review,7,7,0,Completed
+T00022,2026-07-29,Beta,Annotation,11,10,1,Partially Completed
+T00023,2026-07-29,Beta,Data Validation,5,5,1,Completed
+T00024,2026-07-29,Beta,Quality Review,7,7,1,Completed
+T00025,2026-07-29,Gamma,Annotation,7,5,1,Partially Completed
+T00026,2026-07-29,Gamma,Data Validation,4,4,1,Completed
+T00027,2026-07-29,Gamma,Quality Review,5,4,1,Partially Completed
+T00028,2026-07-30,Alpha,Annotation,13,11,1,Partially Completed
+T00029,2026-07-30,Alpha,Data Validation,7,7,0,Completed
+T00030,2026-07-30,Alpha,Quality Review,8,8,1,Completed
+T00031,2026-07-30,Beta,Annotation,9,9,0,Completed
+T00032,2026-07-30,Beta,Data Validation,6,4,0,Partially Completed
+T00033,2026-07-30,Beta,Quality Review,6,6,1,Completed
+T00034,2026-07-30,Gamma,Annotation,8,6,0,Partially Completed
+T00035,2026-07-30,Gamma,Data Validation,5,5,0,Completed
+T00036,2026-07-30,Gamma,Quality Review,5,5,0,Completed
+T00037,2026-07-31,Alpha,Annotation,10,10,0,Completed
+T00038,2026-07-31,Alpha,Data Validation,8,8,0,Completed
+T00039,2026-07-31,Alpha,Quality Review,9,9,0,Completed
+T00040,2026-07-31,Beta,Annotation,11,11,1,Completed
+T00041,2026-07-31,Beta,Data Validation,5,5,1,Completed
+T00042,2026-07-31,Beta,Quality Review,6,4,0,Partially Completed
+T00043,2026-07-31,Gamma,Annotation,8,8,1,Completed
+T00044,2026-07-31,Gamma,Data Validation,4,4,1,Completed
+T00045,2026-07-31,Gamma,Quality Review,6,5,0,Partially Completed
+T00046,2026-08-03,Alpha,Annotation,11,11,2,Completed
+T00047,2026-08-03,Alpha,Data Validation,6,6,0,Completed
+T00048,2026-08-03,Alpha,Quality Review,7,7,0,Completed
+T00049,2026-08-03,Beta,Annotation,11,11,0,Completed
+T00050,2026-08-03,Beta,Data Validation,5,5,1,Completed
+T00051,2026-08-03,Beta,Quality Review,6,6,0,Completed
+T00052,2026-08-03,Gamma,Annotation,7,6,1,Partially Completed
+T00053,2026-08-03,Gamma,Data Validation,4,4,0,Completed
+T00054,2026-08-03,Gamma,Quality Review,5,4,0,Partially Completed
+T00055,2026-08-04,Alpha,Annotation,14,13,0,Partially Completed
+T00056,2026-08-04,Alpha,Data Validation,8,7,1,Partially Completed
+T00057,2026-08-04,Alpha,Quality Review,8,8,0,Completed
+T00058,2026-08-04,Beta,Annotation,8,8,0,Completed
+T00059,2026-08-04,Beta,Data Validation,6,4,0,Partially Completed
+T00060,2026-08-04,Beta,Quality Review,6,5,1,Partially Completed
+T00061,2026-08-04,Gamma,Annotation,9,7,1,Partially Completed
+T00062,2026-08-04,Gamma,Data Validation,4,3,1,Partially Completed
+T00063,2026-08-04,Gamma,Quality Review,6,6,0,Completed
+T00064,2026-08-05,Alpha,Annotation,11,11,1,Completed
+T00065,2026-08-05,Alpha,Data Validation,6,6,0,Completed
+T00066,2026-08-05,Alpha,Quality Review,9,7,1,Partially Completed
+T00067,2026-08-05,Beta,Annotation,10,9,1,Partially Completed
+T00068,2026-08-05,Beta,Data Validation,6,6,1,Completed
+T00069,2026-08-05,Beta,Quality Review,7,6,0,Partially Completed
+T00070,2026-08-05,Gamma,Annotation,7,7,0,Completed
+T00071,2026-08-05,Gamma,Data Validation,4,4,0,Completed
+T00072,2026-08-05,Gamma,Quality Review,6,6,1,Completed
+T00073,2026-08-06,Alpha,Annotation,14,13,0,Partially Completed
+T00074,2026-08-06,Alpha,Data Validation,6,6,0,Completed
+T00075,2026-08-06,Alpha,Quality Review,7,7,0,Completed
+T00076,2026-08-06,Beta,Annotation,11,10,1,Partially Completed
+T00077,2026-08-06,Beta,Data Validation,5,5,0,Completed
+T00078,2026-08-06,Beta,Quality Review,8,8,0,Completed
+T00079,2026-08-06,Gamma,Annotation,7,7,0,Completed
+T00080,2026-08-06,Gamma,Data Validation,5,5,0,Completed
+T00081,2026-08-06,Gamma,Quality Review,5,3,1,Partially Completed
+T00082,2026-08-07,Alpha,Annotation,10,10,0,Completed
+T00083,2026-08-07,Alpha,Data Validation,7,6,1,Partially Completed
+T00084,2026-08-07,Alpha,Quality Review,9,8,1,Partially Completed
+T00085,2026-08-07,Beta,Annotation,11,10,0,Partially Completed
+T00086,2026-08-07,Beta,Data Validation,6,6,0,Completed
+T00087,2026-08-07,Beta,Quality Review,7,7,0,Completed
+T00088,2026-08-07,Gamma,Annotation,9,8,0,Partially Completed
+T00089,2026-08-07,Gamma,Data Validation,5,4,0,Partially Completed
+T00090,2026-08-07,Gamma,Quality Review,4,4,0,Completed
+T00091,2026-08-10,Alpha,Annotation,12,12,1,Completed
+T00092,2026-08-10,Alpha,Data Validation,7,7,0,Completed
+T00093,2026-08-10,Alpha,Quality Review,9,9,1,Completed
+T00094,2026-08-10,Beta,Annotation,12,12,0,Completed
+T00095,2026-08-10,Beta,Data Validation,5,5,0,Completed
+T00096,2026-08-10,Beta,Quality Review,7,7,0,Completed
+T00097,2026-08-10,Gamma,Annotation,9,9,1,Completed
+T00098,2026-08-10,Gamma,Data Validation,3,3,1,Completed
+T00099,2026-08-10,Gamma,Quality Review,6,6,1,Completed
+T00100,2026-08-11,Alpha,Annotation,13,11,1,Partially Completed
+T00101,2026-08-11,Alpha,Data Validation,7,7,0,Completed
+T00102,2026-08-11,Alpha,Quality Review,8,8,0,Completed
+T00103,2026-08-11,Beta,Annotation,8,8,3,Completed
+T00104,2026-08-11,Beta,Data Validation,6,6,1,Completed
+T00105,2026-08-11,Beta,Quality Review,8,8,0,Completed
+T00106,2026-08-11,Gamma,Annotation,7,7,0,Completed
+T00107,2026-08-11,Gamma,Data Validation,5,3,0,Partially Completed
+T00108,2026-08-11,Gamma,Quality Review,6,6,0,Completed
+T00109,2026-08-12,Alpha,Annotation,12,12,0,Completed
+T00110,2026-08-12,Alpha,Data Validation,6,6,2,Completed
+T00111,2026-08-12,Alpha,Quality Review,7,6,1,Partially Completed
+T00112,2026-08-12,Beta,Annotation,11,8,0,Partially Completed
+T00113,2026-08-12,Beta,Data Validation,5,5,0,Completed
+T00114,2026-08-12,Beta,Quality Review,7,7,0,Completed
+T00115,2026-08-12,Gamma,Annotation,7,7,0,Completed
+T00116,2026-08-12,Gamma,Data Validation,5,5,0,Completed
+T00117,2026-08-12,Gamma,Quality Review,5,4,0,Partially Completed
+T00118,2026-08-13,Alpha,Annotation,12,10,1,Partially Completed
+T00119,2026-08-13,Alpha,Data Validation,7,7,0,Completed
+T00120,2026-08-13,Alpha,Quality Review,10,9,0,Partially Completed
+T00121,2026-08-13,Beta,Annotation,10,10,0,Completed
+T00122,2026-08-13,Beta,Data Validation,6,5,0,Partially Completed
+T00123,2026-08-13,Beta,Quality Review,6,5,1,Partially Completed
+T00124,2026-08-13,Gamma,Annotation,8,8,1,Completed
+T00125,2026-08-13,Gamma,Data Validation,4,4,0,Completed
+T00126,2026-08-13,Gamma,Quality Review,5,5,1,Completed
+T00127,2026-08-14,Alpha,Annotation,12,12,0,Completed
+T00128,2026-08-14,Alpha,Data Validation,7,5,0,Partially Completed
+T00129,2026-08-14,Alpha,Quality Review,7,7,0,Completed
+T00130,2026-08-14,Beta,Annotation,11,11,0,Completed
+T00131,2026-08-14,Beta,Data Validation,7,7,1,Completed
+T00132,2026-08-14,Beta,Quality Review,7,6,0,Partially Completed
+T00133,2026-08-14,Gamma,Annotation,9,4,0,Partially Completed
+T00134,2026-08-14,Gamma,Data Validation,5,5,1,Completed
+T00135,2026-08-14,Gamma,Quality Review,5,3,0,Partially Completed
+T00136,2026-08-17,Alpha,Annotation,11,11,1,Completed
+T00137,2026-08-17,Alpha,Data Validation,6,6,0,Completed
+T00138,2026-08-17,Alpha,Quality Review,8,8,2,Completed
+T00139,2026-08-17,Beta,Annotation,10,10,0,Completed
+T00140,2026-08-17,Beta,Data Validation,6,6,0,Completed
+T00141,2026-08-17,Beta,Quality Review,6,6,2,Completed
+T00142,2026-08-17,Gamma,Annotation,7,7,1,Completed
+T00143,2026-08-17,Gamma,Data Validation,4,3,0,Partially Completed
+T00144,2026-08-17,Gamma,Quality Review,5,3,0,Partially Completed
+T00145,2026-08-18,Alpha,Annotation,12,9,0,Partially Completed
+T00146,2026-08-18,Alpha,Data Validation,7,7,2,Completed
+T00147,2026-08-18,Alpha,Quality Review,8,6,0,Partially Completed
+T00148,2026-08-18,Beta,Annotation,12,9,0,Partially Completed
+T00149,2026-08-18,Beta,Data Validation,5,5,0,Completed
+T00150,2026-08-18,Beta,Quality Review,7,7,0,Completed
+T00151,2026-08-18,Gamma,Annotation,9,7,0,Partially Completed
+T00152,2026-08-18,Gamma,Data Validation,4,4,0,Completed
+T00153,2026-08-18,Gamma,Quality Review,5,4,1,Partially Completed
+T00154,2026-08-19,Alpha,Annotation,12,12,1,Completed
+T00155,2026-08-19,Alpha,Data Validation,7,7,0,Completed
+T00156,2026-08-19,Alpha,Quality Review,8,8,0,Completed
+T00157,2026-08-19,Beta,Annotation,9,9,1,Completed
+T00158,2026-08-19,Beta,Data Validation,5,4,0,Partially Completed
+T00159,2026-08-19,Beta,Quality Review,7,7,0,Completed
+T00160,2026-08-19,Gamma,Annotation,9,7,0,Partially Completed
+T00161,2026-08-19,Gamma,Data Validation,4,4,1,Completed
+T00162,2026-08-19,Gamma,Quality Review,5,5,0,Completed
+T00163,2026-08-20,Alpha,Annotation,12,12,0,Completed
+T00164,2026-08-20,Alpha,Data Validation,7,6,0,Partially Completed
+T00165,2026-08-20,Alpha,Quality Review,9,8,0,Partially Completed
+T00166,2026-08-20,Beta,Annotation,9,9,1,Completed
+T00167,2026-08-20,Beta,Data Validation,6,6,0,Completed
+T00168,2026-08-20,Beta,Quality Review,7,5,0,Partially Completed
+T00169,2026-08-20,Gamma,Annotation,6,6,1,Completed
+T00170,2026-08-20,Gamma,Data Validation,4,4,0,Completed
+T00171,2026-08-20,Gamma,Quality Review,5,5,0,Completed
+T00172,2026-08-21,Alpha,Annotation,12,12,1,Completed
+T00173,2026-08-21,Alpha,Data Validation,6,5,0,Partially Completed
+T00174,2026-08-21,Alpha,Quality Review,7,7,0,Completed
+T00175,2026-08-21,Beta,Annotation,10,9,0,Partially Completed
+T00176,2026-08-21,Beta,Data Validation,6,6,2,Completed
+T00177,2026-08-21,Beta,Quality Review,7,7,0,Completed
+T00178,2026-08-21,Gamma,Annotation,8,8,0,Completed
+T00179,2026-08-21,Gamma,Data Validation,5,4,0,Partially Completed
+T00180,2026-08-21,Gamma,Quality Review,6,6,0,Completed
+T00181,2026-08-24,Alpha,Annotation,11,10,2,Partially Completed
+T00182,2026-08-24,Alpha,Data Validation,6,5,1,Partially Completed
+T00183,2026-08-24,Alpha,Quality Review,8,8,0,Completed
+T00184,2026-08-24,Beta,Annotation,10,10,0,Completed
+T00185,2026-08-24,Beta,Data Validation,5,5,0,Completed
+T00186,2026-08-24,Beta,Quality Review,6,6,0,Completed
+T00187,2026-08-24,Gamma,Annotation,8,8,0,Completed
+T00188,2026-08-24,Gamma,Data Validation,4,4,1,Completed
+T00189,2026-08-24,Gamma,Quality Review,6,6,0,Completed
+T00190,2026-08-25,Alpha,Annotation,14,11,0,Partially Completed
+T00191,2026-08-25,Alpha,Data Validation,8,8,0,Completed
+T00192,2026-08-25,Alpha,Quality Review,6,4,1,Partially Completed
+T00193,2026-08-25,Beta,Annotation,9,9,1,Completed
+T00194,2026-08-25,Beta,Data Validation,5,5,0,Completed
+T00195,2026-08-25,Beta,Quality Review,7,5,0,Partially Completed
+T00196,2026-08-25,Gamma,Annotation,7,7,0,Completed
+T00197,2026-08-25,Gamma,Data Validation,4,3,1,Partially Completed
+T00198,2026-08-25,Gamma,Quality Review,6,5,1,Partially Completed
+T00199,2026-08-26,Alpha,Annotation,11,11,0,Completed
+T00200,2026-08-26,Alpha,Data Validation,5,5,0,Completed
+T00201,2026-08-26,Alpha,Quality Review,8,8,0,Completed
+T00202,2026-08-26,Beta,Annotation,11,7,0,Partially Completed
+T00203,2026-08-26,Beta,Data Validation,5,5,0,Completed
+T00204,2026-08-26,Beta,Quality Review,7,7,1,Completed
+T00205,2026-08-26,Gamma,Annotation,7,7,0,Completed
+T00206,2026-08-26,Gamma,Data Validation,5,4,0,Partially Completed
+T00207,2026-08-26,Gamma,Quality Review,5,3,0,Partially Completed
+T00208,2026-08-27,Alpha,Annotation,11,11,2,Completed
+T00209,2026-08-27,Alpha,Data Validation,7,7,1,Completed
+T00210,2026-08-27,Alpha,Quality Review,9,9,0,Completed
+T00211,2026-08-27,Beta,Annotation,10,10,0,Completed
+T00212,2026-08-27,Beta,Data Validation,5,5,1,Completed
+T00213,2026-08-27,Beta,Quality Review,6,6,0,Completed
+T00214,2026-08-27,Gamma,Annotation,8,7,1,Partially Completed
+T00215,2026-08-27,Gamma,Data Validation,3,3,0,Completed
+T00216,2026-08-27,Gamma,Quality Review,4,4,0,Completed
+T00217,2026-08-28,Alpha,Annotation,11,11,0,Completed
+T00218,2026-08-28,Alpha,Data Validation,6,6,0,Completed
+T00219,2026-08-28,Alpha,Quality Review,8,7,1,Partially Completed
+T00220,2026-08-28,Beta,Annotation,9,9,1,Completed
+T00221,2026-08-28,Beta,Data Validation,7,5,1,Partially Completed
+T00222,2026-08-28,Beta,Quality Review,7,7,1,Completed
+T00223,2026-08-28,Gamma,Annotation,8,5,1,Partially Completed
+T00224,2026-08-28,Gamma,Data Validation,5,5,0,Completed
+T00225,2026-08-28,Gamma,Quality Review,4,4,0,Completed
+T00226,2026-08-31,Alpha,Annotation,10,10,1,Completed
+T00227,2026-08-31,Alpha,Data Validation,7,7,1,Completed
+T00228,2026-08-31,Alpha,Quality Review,8,8,0,Completed
+T00229,2026-08-31,Beta,Annotation,8,8,1,Completed
+T00230,2026-08-31,Beta,Data Validation,5,5,0,Completed
+T00231,2026-08-31,Beta,Quality Review,7,7,0,Completed
+T00232,2026-08-31,Gamma,Annotation,8,8,1,Completed
+T00233,2026-08-31,Gamma,Data Validation,4,4,0,Completed
+T00234,2026-08-31,Gamma,Quality Review,5,5,1,Completed
+T00235,2026-09-01,Alpha,Annotation,13,11,0,Partially Completed
+T00236,2026-09-01,Alpha,Data Validation,7,7,0,Completed
+T00237,2026-09-01,Alpha,Quality Review,8,8,0,Completed
+T00238,2026-09-01,Beta,Annotation,12,12,2,Completed
+T00239,2026-09-01,Beta,Data Validation,7,7,2,Completed
+T00240,2026-09-01,Beta,Quality Review,6,6,0,Completed
+T00241,2026-09-01,Gamma,Annotation,9,5,0,Partially Completed
+T00242,2026-09-01,Gamma,Data Validation,4,4,0,Completed
+T00243,2026-09-01,Gamma,Quality Review,4,4,0,Completed
+T00244,2026-09-02,Alpha,Annotation,12,12,0,Completed
+T00245,2026-09-02,Alpha,Data Validation,7,5,1,Partially Completed
+T00246,2026-09-02,Alpha,Quality Review,7,7,2,Completed
+T00247,2026-09-02,Beta,Annotation,9,9,0,Completed
+T00248,2026-09-02,Beta,Data Validation,5,5,0,Completed
+T00249,2026-09-02,Beta,Quality Review,8,8,1,Completed
+T00250,2026-09-02,Gamma,Annotation,8,8,0,Completed
+T00251,2026-09-02,Gamma,Data Validation,4,2,1,Partially Completed
+T00252,2026-09-02,Gamma,Quality Review,6,5,1,Partially Completed
+T00253,2026-09-03,Alpha,Annotation,13,13,1,Completed
+T00254,2026-09-03,Alpha,Data Validation,7,7,0,Completed
+T00255,2026-09-03,Alpha,Quality Review,9,7,0,Partially Completed
+T00256,2026-09-03,Beta,Annotation,10,10,0,Completed
+T00257,2026-09-03,Beta,Data Validation,6,5,0,Partially Completed
+T00258,2026-09-03,Beta,Quality Review,6,5,1,Partially Completed
+T00259,2026-09-03,Gamma,Annotation,7,7,0,Completed
+T00260,2026-09-03,Gamma,Data Validation,5,5,1,Completed
+T00261,2026-09-03,Gamma,Quality Review,5,3,0,Partially Completed
+T00262,2026-09-04,Alpha,Annotation,11,11,1,Completed
+T00263,2026-09-04,Alpha,Data Validation,5,5,0,Completed
+T00264,2026-09-04,Alpha,Quality Review,7,7,0,Completed
+T00265,2026-09-04,Beta,Annotation,11,9,0,Partially Completed
+T00266,2026-09-04,Beta,Data Validation,5,5,0,Completed
+T00267,2026-09-04,Beta,Quality Review,6,5,0,Partially Completed
+T00268,2026-09-04,Gamma,Annotation,6,6,1,Completed
+T00269,2026-09-04,Gamma,Data Validation,4,4,0,Completed
+T00270,2026-09-04,Gamma,Quality Review,5,5,0,Completed
+T00271,2026-09-07,Alpha,Annotation,12,12,0,Completed
+T00272,2026-09-07,Alpha,Data Validation,6,5,0,Partially Completed
+T00273,2026-09-07,Alpha,Quality Review,8,6,0,Partially Completed
+T00274,2026-09-07,Beta,Annotation,9,7,1,Partially Completed
+T00275,2026-09-07,Beta,Data Validation,4,4,0,Completed
+T00276,2026-09-07,Beta,Quality Review,7,7,0,Completed
+T00277,2026-09-07,Gamma,Annotation,9,9,0,Completed
+T00278,2026-09-07,Gamma,Data Validation,4,3,0,Partially Completed
+T00279,2026-09-07,Gamma,Quality Review,5,5,0,Completed
+T00280,2026-09-08,Alpha,Annotation,13,12,0,Partially Completed
+T00281,2026-09-08,Alpha,Data Validation,6,6,0,Completed
+T00282,2026-09-08,Alpha,Quality Review,8,8,0,Completed
+T00283,2026-09-08,Beta,Annotation,10,9,0,Partially Completed
+T00284,2026-09-08,Beta,Data Validation,6,6,0,Completed
+T00285,2026-09-08,Beta,Quality Review,8,6,0,Partially Completed
+T00286,2026-09-08,Gamma,Annotation,7,7,1,Completed
+T00287,2026-09-08,Gamma,Data Validation,4,4,0,Completed
+T00288,2026-09-08,Gamma,Quality Review,5,4,0,Partially Completed
+T00289,2026-09-09,Alpha,Annotation,10,10,1,Completed
+T00290,2026-09-09,Alpha,Data Validation,7,6,0,Partially Completed
+T00291,2026-09-09,Alpha,Quality Review,7,7,0,Completed
+T00292,2026-09-09,Beta,Annotation,10,10,0,Completed
+T00293,2026-09-09,Beta,Data Validation,6,6,0,Completed
+T00294,2026-09-09,Beta,Quality Review,6,6,0,Completed
+T00295,2026-09-09,Gamma,Annotation,8,4,0,Partially Completed
+T00296,2026-09-09,Gamma,Data Validation,5,4,1,Partially Completed
+T00297,2026-09-09,Gamma,Quality Review,5,5,0,Completed
+T00298,2026-09-10,Alpha,Annotation,11,11,1,Completed
+T00299,2026-09-10,Alpha,Data Validation,7,7,2,Completed
+T00300,2026-09-10,Alpha,Quality Review,8,8,0,Completed
+T00301,2026-09-10,Beta,Annotation,10,10,0,Completed
+T00302,2026-09-10,Beta,Data Validation,6,4,1,Partially Completed
+T00303,2026-09-10,Beta,Quality Review,6,6,1,Completed
+T00304,2026-09-10,Gamma,Annotation,7,7,1,Completed
+T00305,2026-09-10,Gamma,Data Validation,4,4,1,Completed
+T00306,2026-09-10,Gamma,Quality Review,6,5,0,Partially Completed
+T00307,2026-09-11,Alpha,Annotation,12,10,1,Partially Completed
+T00308,2026-09-11,Alpha,Data Validation,6,6,0,Completed
+T00309,2026-09-11,Alpha,Quality Review,8,8,1,Completed
+T00310,2026-09-11,Beta,Annotation,10,10,1,Completed
+T00311,2026-09-11,Beta,Data Validation,5,5,1,Completed
+T00312,2026-09-11,Beta,Quality Review,6,6,0,Completed
+T00313,2026-09-11,Gamma,Annotation,7,7,0,Completed
+T00314,2026-09-11,Gamma,Data Validation,4,4,0,Completed
+T00315,2026-09-11,Gamma,Quality Review,4,3,1,Partially Completed
+T00316,2026-09-14,Alpha,Annotation,12,12,1,Completed
+T00317,2026-09-14,Alpha,Data Validation,6,5,1,Partially Completed
+T00318,2026-09-14,Alpha,Quality Review,7,7,0,Completed
+T00319,2026-09-14,Beta,Annotation,11,11,2,Completed
+T00320,2026-09-14,Beta,Data Validation,6,6,1,Completed
+T00321,2026-09-14,Beta,Quality Review,7,7,0,Completed
+T00322,2026-09-14,Gamma,Annotation,8,5,0,Partially Completed
+T00323,2026-09-14,Gamma,Data Validation,4,4,1,Completed
+T00324,2026-09-14,Gamma,Quality Review,5,5,0,Completed
+T00325,2026-09-15,Alpha,Annotation,11,11,1,Completed
+T00326,2026-09-15,Alpha,Data Validation,6,6,1,Completed
+T00327,2026-09-15,Alpha,Quality Review,9,7,0,Partially Completed
+T00328,2026-09-15,Beta,Annotation,9,9,0,Completed
+T00329,2026-09-15,Beta,Data Validation,6,5,0,Partially Completed
+T00330,2026-09-15,Beta,Quality Review,8,8,1,Completed
+T00331,2026-09-15,Gamma,Annotation,8,7,0,Partially Completed
+T00332,2026-09-15,Gamma,Data Validation,5,4,0,Partially Completed
+T00333,2026-09-15,Gamma,Quality Review,5,5,0,Completed
+T00334,2026-09-16,Alpha,Annotation,13,11,1,Partially Completed
+T00335,2026-09-16,Alpha,Data Validation,7,6,0,Partially Completed
+T00336,2026-09-16,Alpha,Quality Review,8,8,1,Completed
+T00337,2026-09-16,Beta,Annotation,11,11,1,Completed
+T00338,2026-09-16,Beta,Data Validation,5,5,0,Completed
+T00339,2026-09-16,Beta,Quality Review,7,7,0,Completed
+T00340,2026-09-16,Gamma,Annotation,7,7,1,Completed
+T00341,2026-09-16,Gamma,Data Validation,4,3,1,Partially Completed
+T00342,2026-09-16,Gamma,Quality Review,6,3,0,Partially Completed
+T00343,2026-09-17,Alpha,Annotation,13,11,0,Partially Completed
+T00344,2026-09-17,Alpha,Data Validation,7,7,0,Completed
+T00345,2026-09-17,Alpha,Quality Review,8,8,1,Completed
+T00346,2026-09-17,Beta,Annotation,11,11,0,Completed
+T00347,2026-09-17,Beta,Data Validation,6,5,1,Partially Completed
+T00348,2026-09-17,Beta,Quality Review,6,5,1,Partially Completed
+T00349,2026-09-17,Gamma,Annotation,8,8,0,Completed
+T00350,2026-09-17,Gamma,Data Validation,4,4,0,Completed
+T00351,2026-09-17,Gamma,Quality Review,5,5,1,Completed
+T00352,2026-09-18,Alpha,Annotation,11,11,0,Completed
+T00353,2026-09-18,Alpha,Data Validation,7,7,1,Completed
+T00354,2026-09-18,Alpha,Quality Review,8,8,0,Completed
+T00355,2026-09-18,Beta,Annotation,9,6,0,Partially Completed
+T00356,2026-09-18,Beta,Data Validation,5,5,0,Completed
+T00357,2026-09-18,Beta,Quality Review,6,5,0,Partially Completed
+T00358,2026-09-18,Gamma,Annotation,8,8,0,Completed
+T00359,2026-09-18,Gamma,Data Validation,5,5,0,Completed
+T00360,2026-09-18,Gamma,Quality Review,5,5,1,Completed
+T00361,2026-09-21,Alpha,Annotation,11,11,0,Completed
+T00362,2026-09-21,Alpha,Data Validation,7,7,0,Completed
+T00363,2026-09-21,Alpha,Quality Review,8,6,1,Partially Completed
+T00364,2026-09-21,Beta,Annotation,11,11,2,Completed
+T00365,2026-09-21,Beta,Data Validation,4,4,0,Completed
+T00366,2026-09-21,Beta,Quality Review,6,6,0,Completed
+T00367,2026-09-21,Gamma,Annotation,7,7,0,Completed
+T00368,2026-09-21,Gamma,Data Validation,4,4,1,Completed
+T00369,2026-09-21,Gamma,Quality Review,5,5,1,Completed
+T00370,2026-09-22,Alpha,Annotation,12,11,1,Partially Completed
+T00371,2026-09-22,Alpha,Data Validation,5,5,0,Completed
+T00372,2026-09-22,Alpha,Quality Review,7,7,1,Completed
+T00373,2026-09-22,Beta,Annotation,8,8,0,Completed
+T00374,2026-09-22,Beta,Data Validation,6,5,0,Partially Completed
+T00375,2026-09-22,Beta,Quality Review,7,7,2,Completed
+T00376,2026-09-22,Gamma,Annotation,7,7,1,Completed
+T00377,2026-09-22,Gamma,Data Validation,4,4,1,Completed
+T00378,2026-09-22,Gamma,Quality Review,4,4,0,Completed
+T00379,2026-09-23,Alpha,Annotation,13,13,1,Completed
+T00380,2026-09-23,Alpha,Data Validation,7,7,0,Completed
+T00381,2026-09-23,Alpha,Quality Review,7,7,0,Completed
+T00382,2026-09-23,Beta,Annotation,9,9,0,Completed
+T00383,2026-09-23,Beta,Data Validation,6,6,0,Completed
+T00384,2026-09-23,Beta,Quality Review,7,7,0,Completed
+T00385,2026-09-23,Gamma,Annotation,8,6,0,Partially Completed
+T00386,2026-09-23,Gamma,Data Validation,3,3,0,Completed
+T00387,2026-09-23,Gamma,Quality Review,6,6,1,Completed
+T00388,2026-09-24,Alpha,Annotation,12,10,0,Partially Completed
+T00389,2026-09-24,Alpha,Data Validation,7,6,1,Partially Completed
+T00390,2026-09-24,Alpha,Quality Review,9,9,0,Completed
+T00391,2026-09-24,Beta,Annotation,10,10,1,Completed
+T00392,2026-09-24,Beta,Data Validation,6,6,0,Completed
+T00393,2026-09-24,Beta,Quality Review,8,7,0,Partially Completed
+T00394,2026-09-24,Gamma,Annotation,7,7,1,Completed
+T00395,2026-09-24,Gamma,Data Validation,4,2,1,Partially Completed
+T00396,2026-09-24,Gamma,Quality Review,6,5,0,Partially Completed
+T00397,2026-09-25,Alpha,Annotation,12,12,1,Completed
+T00398,2026-09-25,Alpha,Data Validation,6,5,1,Partially Completed
+T00399,2026-09-25,Alpha,Quality Review,9,9,0,Completed
+T00400,2026-09-25,Beta,Annotation,12,9,0,Partially Completed
+T00401,2026-09-25,Beta,Data Validation,5,4,1,Partially Completed
+T00402,2026-09-25,Beta,Quality Review,6,6,0,Completed
+T00403,2026-09-25,Gamma,Annotation,8,6,0,Partially Completed
+T00404,2026-09-25,Gamma,Data Validation,3,3,0,Completed
+T00405,2026-09-25,Gamma,Quality Review,6,6,0,Completed
+T00406,2026-09-28,Alpha,Annotation,10,10,1,Completed
+T00407,2026-09-28,Alpha,Data Validation,6,5,0,Partially Completed
+T00408,2026-09-28,Alpha,Quality Review,8,8,0,Completed
+T00409,2026-09-28,Beta,Annotation,12,9,0,Partially Completed
+T00410,2026-09-28,Beta,Data Validation,7,7,1,Completed
+T00411,2026-09-28,Beta,Quality Review,7,7,0,Completed
+T00412,2026-09-28,Gamma,Annotation,7,7,0,Completed
+T00413,2026-09-28,Gamma,Data Validation,5,5,0,Completed
+T00414,2026-09-28,Gamma,Quality Review,6,5,0,Partially Completed
+T00415,2026-09-29,Alpha,Annotation,10,10,0,Completed
+T00416,2026-09-29,Alpha,Data Validation,6,5,1,Partially Completed
+T00417,2026-09-29,Alpha,Quality Review,9,7,0,Partially Completed
+T00418,2026-09-29,Beta,Annotation,10,10,0,Completed
+T00419,2026-09-29,Beta,Data Validation,5,5,0,Completed
+T00420,2026-09-29,Beta,Quality Review,6,6,0,Completed
+T00421,2026-09-29,Gamma,Annotation,9,8,1,Partially Completed
+T00422,2026-09-29,Gamma,Data Validation,4,4,1,Completed
+T00423,2026-09-29,Gamma,Quality Review,6,6,0,Completed
+T00424,2026-09-30,Alpha,Annotation,14,14,1,Completed
+T00425,2026-09-30,Alpha,Data Validation,8,8,0,Completed
+T00426,2026-09-30,Alpha,Quality Review,8,8,1,Completed
+T00427,2026-09-30,Beta,Annotation,11,11,0,Completed
+T00428,2026-09-30,Beta,Data Validation,5,4,0,Partially Completed
+T00429,2026-09-30,Beta,Quality Review,7,7,0,Completed
+T00430,2026-09-30,Gamma,Annotation,7,7,1,Completed
+T00431,2026-09-30,Gamma,Data Validation,3,3,2,Completed
+T00432,2026-09-30,Gamma,Quality Review,5,5,0,Completed
+T00433,2026-10-01,Alpha,Annotation,15,12,2,Partially Completed
+T00434,2026-10-01,Alpha,Data Validation,5,5,0,Completed
+T00435,2026-10-01,Alpha,Quality Review,7,7,0,Completed
+T00436,2026-10-01,Beta,Annotation,9,9,3,Completed
+T00437,2026-10-01,Beta,Data Validation,6,5,0,Partially Completed
+T00438,2026-10-01,Beta,Quality Review,8,6,1,Partially Completed
+T00439,2026-10-01,Gamma,Annotation,7,7,0,Completed
+T00440,2026-10-01,Gamma,Data Validation,5,4,0,Partially Completed
+T00441,2026-10-01,Gamma,Quality Review,5,4,0,Partially Completed
+T00442,2026-10-02,Alpha,Annotation,12,12,1,Completed
+T00443,2026-10-02,Alpha,Data Validation,7,7,1,Completed
+T00444,2026-10-02,Alpha,Quality Review,9,9,1,Completed
+T00445,2026-10-02,Beta,Annotation,10,10,0,Completed
+T00446,2026-10-02,Beta,Data Validation,5,5,1,Completed
+T00447,2026-10-02,Beta,Quality Review,7,7,1,Completed
+T00448,2026-10-02,Gamma,Annotation,8,5,0,Partially Completed
+T00449,2026-10-02,Gamma,Data Validation,4,2,1,Partially Completed
+T00450,2026-10-02,Gamma,Quality Review,5,4,2,Partially Completed
+T00451,2026-10-05,Alpha,Annotation,10,10,0,Completed
+T00452,2026-10-05,Alpha,Data Validation,7,7,2,Completed
+T00453,2026-10-05,Alpha,Quality Review,8,8,1,Completed
+T00454,2026-10-05,Beta,Annotation,12,12,0,Completed
+T00455,2026-10-05,Beta,Data Validation,5,5,1,Completed
+T00456,2026-10-05,Beta,Quality Review,6,6,0,Completed
+T00457,2026-10-05,Gamma,Annotation,7,7,0,Completed
+T00458,2026-10-05,Gamma,Data Validation,3,3,0,Completed
+T00459,2026-10-05,Gamma,Quality Review,6,3,0,Partially Completed
+T00460,2026-10-06,Alpha,Annotation,12,12,2,Completed
+T00461,2026-10-06,Alpha,Data Validation,5,5,0,Completed
+T00462,2026-10-06,Alpha,Quality Review,7,7,0,Completed
+T00463,2026-10-06,Beta,Annotation,10,10,1,Completed
+T00464,2026-10-06,Beta,Data Validation,6,4,0,Partially Completed
+T00465,2026-10-06,Beta,Quality Review,7,7,1,Completed
+T00466,2026-10-06,Gamma,Annotation,7,3,1,Partially Completed
+T00467,2026-10-06,Gamma,Data Validation,4,2,0,Partially Completed
+T00468,2026-10-06,Gamma,Quality Review,5,5,0,Completed
+T00469,2026-10-07,Alpha,Annotation,9,9,1,Completed
+T00470,2026-10-07,Alpha,Data Validation,5,5,0,Completed
+T00471,2026-10-07,Alpha,Quality Review,8,7,1,Partially Completed
+T00472,2026-10-07,Beta,Annotation,10,8,0,Partially Completed
+T00473,2026-10-07,Beta,Data Validation,6,6,1,Completed
+T00474,2026-10-07,Beta,Quality Review,6,6,0,Completed
+T00475,2026-10-07,Gamma,Annotation,7,7,0,Completed
+T00476,2026-10-07,Gamma,Data Validation,4,3,1,Partially Completed
+T00477,2026-10-07,Gamma,Quality Review,4,4,0,Completed
+T00478,2026-10-08,Alpha,Annotation,13,12,0,Partially Completed
+T00479,2026-10-08,Alpha,Data Validation,7,7,0,Completed
+T00480,2026-10-08,Alpha,Quality Review,7,6,0,Partially Completed
+T00481,2026-10-08,Beta,Annotation,8,8,1,Completed
+T00482,2026-10-08,Beta,Data Validation,4,4,0,Completed
+T00483,2026-10-08,Beta,Quality Review,6,6,1,Completed
+T00484,2026-10-08,Gamma,Annotation,7,7,1,Completed
+T00485,2026-10-08,Gamma,Data Validation,3,3,2,Completed
+T00486,2026-10-08,Gamma,Quality Review,5,5,2,Completed
+T00487,2026-10-09,Alpha,Annotation,14,12,0,Partially Completed
+T00488,2026-10-09,Alpha,Data Validation,7,5,0,Partially Completed
+T00489,2026-10-09,Alpha,Quality Review,8,8,0,Completed
+T00490,2026-10-09,Beta,Annotation,9,8,1,Partially Completed
+T00491,2026-10-09,Beta,Data Validation,5,5,0,Completed
+T00492,2026-10-09,Beta,Quality Review,8,6,0,Partially Completed
+T00493,2026-10-09,Gamma,Annotation,8,8,0,Completed
+T00494,2026-10-09,Gamma,Data Validation,4,4,0,Completed
+T00495,2026-10-09,Gamma,Quality Review,6,6,0,Completed
+T00496,2026-10-12,Alpha,Annotation,14,12,1,Partially Completed
+T00497,2026-10-12,Alpha,Data Validation,7,7,0,Completed
+T00498,2026-10-12,Alpha,Quality Review,10,10,1,Completed
+T00499,2026-10-12,Beta,Annotation,11,11,2,Completed
+T00500,2026-10-12,Beta,Data Validation,6,5,0,Partially Completed
+T00501,2026-10-12,Beta,Quality Review,9,9,0,Completed
+T00502,2026-10-12,Gamma,Annotation,8,7,0,Partially Completed
+T00503,2026-10-12,Gamma,Data Validation,3,3,1,Completed
+T00504,2026-10-12,Gamma,Quality Review,6,6,0,Completed
+T00505,2026-10-13,Alpha,Annotation,14,14,1,Completed
+T00506,2026-10-13,Alpha,Data Validation,8,7,1,Partially Completed
+T00507,2026-10-13,Alpha,Quality Review,9,8,0,Partially Completed
+T00508,2026-10-13,Beta,Annotation,12,10,0,Partially Completed
+T00509,2026-10-13,Beta,Data Validation,6,6,1,Completed
+T00510,2026-10-13,Beta,Quality Review,7,6,1,Partially Completed
+T00511,2026-10-13,Gamma,Annotation,10,9,1,Partially Completed
+T00512,2026-10-13,Gamma,Data Validation,4,3,0,Partially Completed
+T00513,2026-10-13,Gamma,Quality Review,6,5,1,Partially Completed
+T00513,2026-10-13,Gamma,Quality Review,6,5,1,Partially Completed
+T00514,2026-10-07,,Annotation,30,28,1,Completed
+T00515,2026-10-07,Beta,Quality Review,20,26,2,Completed
+T00516,2026-10-07,Alpha,Annotation,-5,0,0,Completed

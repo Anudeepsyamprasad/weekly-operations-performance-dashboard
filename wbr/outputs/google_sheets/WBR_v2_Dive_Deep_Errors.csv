@@ -1,0 +1,10 @@
+team_name,task_category,baseline_errors,current_errors,baseline_error_rate_pct,current_error_rate_pct,error_rate_change_pp,excess_errors,share_of_excess_pct
+Gamma,Data Validation,8,10,10.39,20.41,10.02,4.9,46.2
+Beta,Annotation,10,9,5.35,6.34,0.99,1.4,13.2
+Gamma,Quality Review,6,6,6.74,8.22,1.48,1.1,10.4
+Alpha,Annotation,13,11,5.86,6.47,0.61,1.0,9.4
+Gamma,Annotation,7,6,5.11,6.06,0.95,0.9,8.5
+Alpha,Quality Review,7,6,4.73,5.31,0.58,0.7,6.6
+Beta,Quality Review,7,6,5.6,6.19,0.59,0.6,5.7
+Alpha,Data Validation,9,6,7.32,6.74,-0.58,-0.5,0.0
+Beta,Data Validation,8,5,7.77,6.67,-1.1,-0.8,0.0

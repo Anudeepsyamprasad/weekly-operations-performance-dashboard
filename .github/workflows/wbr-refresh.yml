@@ -1,0 +1,28 @@
+name: WBR refresh
+
+# Runs the tests and rebuilds the WBR every Monday morning (IST),
+# on every push, and on demand from the Actions tab.
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 2 * * 1"   # 02:30 UTC = 08:00 IST, Mondays
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r wbr/requirements.txt
+      - name: Test KPI calculations
+        run: pytest wbr/tests -q
+      - name: Refresh the WBR
+        run: python wbr/refresh_wbr.py
+      - name: Upload the WBR pack
+        uses: actions/upload-artifact@v4
+        with:
+          name: wbr-pack
+          path: wbr/outputs/

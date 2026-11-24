@@ -1,0 +1,3 @@
+metric,target_pct,direction
+completion_rate_pct,93.00,higher_is_better
+error_rate_pct,6.50,lower_is_better
