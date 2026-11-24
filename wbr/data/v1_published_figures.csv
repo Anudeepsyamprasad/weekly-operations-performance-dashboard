@@ -1,0 +1,18 @@
+metric,scope,v1_published,v1_source
+completion_rate_pct,week 2026-09-21,93.85,Weekly_Metrics tab
+completion_rate_pct,week 2026-09-28,92.84,Weekly_Metrics tab
+completion_rate_pct,week 2026-10-05,92.38,Weekly_Metrics tab
+completion_rate_pct,week 2026-10-12,92.00,Weekly_Metrics tab
+error_rate_pct,week 2026-09-21,6.15,Weekly_Metrics tab
+error_rate_pct,week 2026-09-28,7.16,Weekly_Metrics tab
+error_rate_pct,week 2026-10-05,6.67,Weekly_Metrics tab
+error_rate_pct,week 2026-10-12,7.33,Weekly_Metrics tab
+completion_rate_pct,overall,92.89,Dashboard tab
+error_rate_pct,overall,7.27,Dashboard tab
+completion_rate_pct,team Alpha,94.51,Team_Analysis tab
+completion_rate_pct,team Beta,93.77,Team_Analysis tab
+completion_rate_pct,team Gamma,89.12,Team_Analysis tab
+error_rate_pct,team Alpha,6.28,Team_Analysis tab
+error_rate_pct,team Beta,6.65,Team_Analysis tab
+error_rate_pct,team Gamma,9.84,Team_Analysis tab
+error_rate_pct,category Data Validation,9.84,Dashboard tab

@@ -1,0 +1,6 @@
+check_name,task_id,task_date,team_name
+duplicate_task_id,T00513,2026-10-13,Gamma
+impossible_total,T00515,2026-10-07,Beta
+impossible_total,T00516,2026-10-07,Alpha
+missing_critical_field,T00514,2026-10-07,
+negative_count,T00516,2026-10-07,Alpha

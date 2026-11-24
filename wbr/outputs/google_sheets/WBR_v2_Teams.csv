@@ -1,0 +1,4 @@
+week_start,team_name,tasks_assigned,tasks_completed,total_errors,completion_rate_pct,completion_wow_pp,error_rate_pct,error_wow_pp
+2026-10-05,Gamma,80.0,70.0,7.0,87.5,-0.87,10.0,-0.53
+2026-10-05,Beta,108.0,101.0,7.0,93.52,-0.39,6.93,0.45
+2026-10-05,Alpha,127.0,120.0,7.0,94.49,-0.29,5.83,-1.26

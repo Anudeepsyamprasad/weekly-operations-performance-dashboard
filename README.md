@@ -7,6 +7,16 @@ Weekly KPI reporting, team performance analysis, category-level error analysis, 
 # weekly-operations-performance-dashboard
 SQL-driven operations analytics project featuring weekly KPIs, team and category analysis, data-quality validation, and a Google Sheets dashboard.
 
+## New in v2: Automated Weekly Business Review
+
+**[`wbr/`](wbr/README.md)** carries out v1's four recommended actions and turns them into a weekly routine: data-quality checks, week-over-week KPIs against targets, a dive deep that traces the error increase to **Team Gamma / Data Validation**, and an Excel WBR pack with charts and Google Sheets-ready tabs. Its task-level data reconciles exactly to every v1 total. It is tested with pytest and scheduled with GitHub Actions.
+
+> **v1 correction found by v2:** the Weekly_Metrics tab divides errors by tasks *assigned*, while the dashboard headline (7.27%) and team figures divide by tasks *completed*. Using one definition (completed), the weekly error rates are 6.56%, 7.72%, 7.22% and 7.97%, and the latest week (12 Oct) holds only 2 working days. The v1 findings below describe the original 4-week snapshot.
+
+```bash
+pip install -r wbr/requirements.txt && python wbr/refresh_wbr.py
+```
+
 ## Live Dashboard
 
 **[Open the Interactive Google Sheets Dashboard](https://docs.google.com/spreadsheets/d/1JMYr6Crc37rYLAKmLGatFd8JOZos8KqSbY_yd6HPihk/edit?usp=sharing)**
